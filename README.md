@@ -85,7 +85,7 @@ Before opening a pull request:
 
 ### Developers of the Project
 
-1. Todd Harper
+- Todd Harper
 
 Your adherence to this workflow is crucial for the orderly development of our project. If you encounter any obstacles, reach out for support. Good luck!
 
