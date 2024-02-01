@@ -84,8 +84,9 @@ Before opening a pull request:
 2. Choose at least one person for review.
 
 ### Developers of the Project
-- JJ Menya
 
+- JJ Menya
+- User 3
 - Todd Harper
 
 Your adherence to this workflow is crucial for the orderly development of our project. If you encounter any obstacles, reach out for support. Good luck!
