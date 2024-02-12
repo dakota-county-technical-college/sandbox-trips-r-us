@@ -89,6 +89,7 @@ Before opening a pull request:
 - User 3
 - Todd Harper
 - Sam Richter
+- Lidiya Kuznetsova
 
 Your adherence to this workflow is crucial for the orderly development of our project. If you encounter any obstacles, reach out for support. Good luck!
 
